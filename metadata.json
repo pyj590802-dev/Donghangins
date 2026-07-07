@@ -1,0 +1,6 @@
+{
+  "name": "동행",
+  "description": "인테리어의 시작부터 마무리까지 함께하는 공사 지원 전문 파트너 동행입니다. 행위허가 대행, 공사동의서 작성, 엘리베이터 보양, 방화판 설치, 폐기물 처리 서비스를 원스톱으로 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
